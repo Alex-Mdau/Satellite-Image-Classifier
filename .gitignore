@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# ML/TensorFlow artifacts
+data/model/*.h5
+data/model/*.pb
+/logs/
